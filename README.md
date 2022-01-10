@@ -1,5 +1,5 @@
 # Mobile-Price-Classification
-Random Forests and SVMs
+Random Forest, CatBoost and SVMs
 
 Data from https://www.kaggle.com/iabhishekofficial/mobile-price-classification
 ## Context
